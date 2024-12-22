@@ -6,10 +6,9 @@
 <h2>🔮 Cybersecurity:</h2>
 
 <h2>👨‍💻 Scripting:</h2>
-<b>PowerShell</b>
-
-<b>Visual Basic</b>
-<b>Python</b>
+<b>PowerShell</b><br></br>
+<b>Visual Basic</b><br></br>
+<b>Python</b><br></br>
 
 
 <h2>Thank you for visiting 👋</h2>
