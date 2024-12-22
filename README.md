@@ -1,7 +1,7 @@
 ## Welcome 👋
 <h1>Hi, I'm Robert! <br/><a href="https://github.com/RobMrtnz/Scripts">Programmer</a>, <a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">IT Professional</a>, <a>YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Scripting Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
