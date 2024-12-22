@@ -1,5 +1,5 @@
 ## Welcome 👋
-<h1>Hi, I'm Robert! I am a <a href="#IT">IT Professional</a>, <a href="Cybersecurity">Cybersecurity Practioner</a>, & <a href="Scripts">Programmer</a>.</h1>
+<h1>Hi, I'm Robert! I am a <a href="#IT">IT Professional</a>, <a href="Cybersecurity">Cybersecurity Practioner</a>, & <a href="Scripting">Programmer</a>.</h1>
 
 <div id="IT"><h2>🚀 IT:</h2>
 <p>
@@ -13,9 +13,9 @@
 </p>
 </div>
 
-<div id="IT"><h2>👨‍💻 Scripting:</h2>
+<div id="Scripting"><h2>👨‍💻 Scripting:</h2>
 <p>
-<a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">Here</a>
+<a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">Here</a><br>
 <b>PowerShell</b><br>
 <b>Visual Basic</b><br>
 <b>Python</b><br>
