@@ -6,13 +6,13 @@
 <h2>🔮 <a href="">Cybersecurity:</a></h2>
 
 <h2>👨‍💻 <a href="">Scripting:</a></h2>
-<b>PowerShell</b><br></br>
-<b>Visual Basic</b><br></br>
-<b>Python</b><br></br>
+<b>PowerShell</b><br>
+<b>Visual Basic</b><br>
+<b>Python</b><br>
 
 
 <h2>Thank you for visiting 👋</h2>
-🤳 Connect with me on:<br></br>
+🤳 Connect with me on:<br>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
