@@ -1,7 +1,7 @@
 ## Welcome 👋
 <h1>Hi, I'm Robert! I am a <a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">IT Professional</a>, <a href="">Cybersecurity Practioner</a>, & <a href="https://github.com/RobMrtnz/Scripts">Programmer</a>.</h1>
 
-<h2>🚀 IT:</h2>
+<h2>🚀 <a href="https://github.com/RobMrtnz/IT">IT:</a></h2>
 
 <h2>🔮 Cybersecurity:</h2>
 
