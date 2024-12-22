@@ -3,9 +3,9 @@
 
 <h2>🚀 <a href="https://github.com/RobMrtnz/IT">IT:</a></h2>
 
-<h2>🔮 Cybersecurity:</h2>
+<h2>🔮 <a href="">Cybersecurity:</a></h2>
 
-<h2>👨‍💻 Scripting:</h2>
+<h2>👨‍💻 <a href="">Scripting:</a></h2>
 <b>PowerShell</b><br></br>
 <b>Visual Basic</b><br></br>
 <b>Python</b><br></br>
