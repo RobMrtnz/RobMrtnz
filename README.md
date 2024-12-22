@@ -1,5 +1,5 @@
 ## Welcome 👋
-<h1>Hi, I'm Robert! I am a <a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">IT Professional</a>, <a href="">Cybersecurity Practioner</a>, & <a href="https://github.com/RobMrtnz/Scripts">Programmer</a>. Below you will find my portfolio</h1>
+<h1>Hi, I'm Robert! I am a <a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">IT Professional</a>, <a href="">Cybersecurity Practioner</a>, & <a href="https://github.com/RobMrtnz/Scripts">Programmer</a>. Below you will find my portfolio in these respective areas.</h1>
 
 <h2>🚀 IT Professional:</h2>
 
