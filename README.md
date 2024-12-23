@@ -23,7 +23,7 @@ Here
 <div id="Scripting"><h2>👨‍💻 Scripting –</h2>
 <p>
 <b>PowerShell:</b><br>
-Here <a href="https://github.com/RobMrtnz/Scripts/tree/main/PowerShell">PowerShell</a><br>
+<a href="https://github.com/RobMrtnz/Scripts/tree/main/PowerShell">PowerShell</a> is a versatile scripting language and automation framework used for system management and task automation across multiple platforms. It processes data as objects, allowing efficient scripting and advanced automation with its rich set of cmdlets. Integrated with .NET and APIs, PowerShell is an essential tool for IT professionals and developers.<br>
 <b>Visual Basic:</b><br>
 <b>Python:</b><br>
 </p>
