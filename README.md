@@ -23,9 +23,9 @@ Here
 <div id="Scripting"><h2>👨‍💻 Scripting –</h2>
 <p>
 <b>PowerShell:</b><br>
-Here <a href="https://github.com/RobMrtnz/Scripts/tree/main/PowerShell">PowerShell</a>
-<b>Visual Basic</b><br>
-<b>Python</b><br>
+Here <a href="https://github.com/RobMrtnz/Scripts/tree/main/PowerShell">PowerShell</a><br>
+<b>Visual Basic:</b><br>
+<b>Python:</b><br>
 </p>
 </div>
 
