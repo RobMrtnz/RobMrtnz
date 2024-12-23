@@ -23,7 +23,7 @@
 <div id="Scripting"><h2>👨‍💻 Scripting:</h2>
 <p>
 <a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">Here</a><br>
-<b href="https://github.com/RobMrtnz/Scripts/tree/main/PowerShell">PowerShell</b><br>
+<a href="https://github.com/RobMrtnz/Scripts/tree/main/PowerShell">PowerShell</a><br>
 <b>Visual Basic</b><br>
 <b>Python</b><br>
 </p>
