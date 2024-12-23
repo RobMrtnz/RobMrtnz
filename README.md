@@ -23,8 +23,9 @@ Here
 <div id="Scripting"><h2>👨‍💻 Scripting –</h2>
 <p>
 <a href="https://github.com/RobMrtnz/Scripts/tree/main/PowerShell">PowerShell</a>: is a versatile scripting language and automation framework used for system management and task automation across multiple platforms. It processes data as objects, allowing efficient scripting and advanced automation with its rich set of cmdlets. Integrated with .NET and APIs, PowerShell is an essential tool for IT professionals and developers.<br></br>
-<a href="">Visual Basic</a>: (VB) is a programming language from Microsoft designed for building Windows applications with a simple, event-driven approach. It features a graphical user interface (GUI) for drag-and-drop design and a straightforward syntax for scripting logic. As part of the .NET framework, VB supports integration with other .NET languages, making it versatile and efficient for application development.<br></br>
-<b>Python:</b><br>
+<a href="https://github.com/RobMrtnz/Scripts/tree/main/Visual%20Basic">Visual Basic (VB)</a>: is a programming language from Microsoft designed for building Windows applications with a simple, event-driven approach. It features a graphical user interface (GUI) for drag-and-drop design and a straightforward syntax for scripting logic. As part of the .NET framework, VB supports integration with other .NET languages, making it versatile and efficient for application development.<br></br>
+<a href="https://github.com/RobMrtnz/Scripts/tree/main/Python">Python</a>:<br>
+
 </p>
 </div>
 
