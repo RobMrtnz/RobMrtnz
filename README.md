@@ -3,27 +3,26 @@
 
 <div id="#About Me"><h2>About Me -</h2>
 <p>
-  Here
+Here
 </p>
 </div>
 
 
-<div id="IT"><h2>🚀 IT:</h2>
+<div id="IT"><h2>🚀 IT –</h2>
 <p>
 <a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">IT</a>
 </p>
 </div>
 
-<div id="Cybersecurity"><h2>🔮 Cybersecurity:</h2>
+<div id="Cybersecurity"><h2>🔮 Cybersecurity –</h2>
 <p>
 <a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">Test</a>
 </p>
 </div>
 
-<div id="Scripting"><h2>👨‍💻 Scripting:</h2>
+<div id="Scripting"><h2>👨‍💻 Scripting –</h2>
 <p>
-<a href="https://linkedin.com/in/robert-nathanael-martinez-455532180">Here</a><br>
-<b>PowerShell</b><br>
+<b>PowerShell:</b><br>
 Here <a href="https://github.com/RobMrtnz/Scripts/tree/main/PowerShell">PowerShell</a>
 <b>Visual Basic</b><br>
 <b>Python</b><br>
