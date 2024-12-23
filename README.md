@@ -17,6 +17,7 @@ Here
 <div id="Cybersecurity"><h2>🔮 Cybersecurity –</h2>
 <p>
 Building a cybersecurity department from scratch involves several key steps to ensure it is effective, scalable, and aligned with the organization’s overall goals. Here's a comprehensive approach to building a cybersecurity department:
+
 1. Define the Department's Mission and Scope
 Mission Statement: Establish the core mission of the department, such as protecting the organization’s information systems, data, and network from cyber threats.
 Scope: Define the areas of focus—network security, application security, cloud security, incident response, compliance, and employee training.
